@@ -39,7 +39,7 @@ export const config = {
     ] as { label: string; value: string; tone: "ok" | "warn" }[],
     courageLabel: "Cesaret seviyesi",
     courageSteps: ["%12", "%31", "%58", "%81", "%98,4"],
-    disclaimer: "* Model iyimserlik yanlılığı içerebilir.",
+    disclaimer: "* Bu analiz tamamen taraflıdır :).",
     recommendationLabel: "Öneri",
     recommendation: "Kahve daveti",
     continueLabel: "Devam et",
