@@ -47,12 +47,12 @@ export const config = {
 
   letter: {
     lines: [
-      "Merhaba. 🙂",
+      "Merhaba İrem. 🙂",
       "Birkaç kez selamlaştık ama tanışma fırsatımız olmadı.",
       "Şirket içinde seni beklenmedik bir anda rahatsız etmek istemedim. Bu yüzden biraz farklı bir yol seçtim.",
       "Eğer senin için de uygunsa, müsait olduğun bir zamanda birlikte bir kahve içmek isterim.",
       "Eğer istemezsen de bunu tamamen anlayışla karşılarım.",
-      "Umarım bu küçük proje gününe küçük de olsa bir tebessüm katmıştır.",
+      "Umarım bu küçük proje, gününe küçük de olsa bir tebessüm katmıştır.",
     ],
     ps: "P.S. Bu sayfayı hazırlamak, sana bu daveti iletmekten daha kolaydı. 🙂",
     yesLabel: "☕ Kahve içelim",
